@@ -7,7 +7,7 @@ CPE Device Agent Requirements for RDK Broadband
 Draft
 
 ## Background
-The CPE Device Agent must provide a productized, reusable device-side execution framework for RDK Broadband that supports secure cloud-to-device control, tool discovery, and constrained execution of approved diagnostic and lifecycle management operations.
+The CPE Device Agent must provide a productized, reusable device-side execution framework for RDK Broadband/Video and other profiles that supports secure cloud-to-device control, tool discovery, and constrained execution of approved diagnostic and lifecycle management operations.
 
 ## Objective
 Create a lightweight, RPCD-inspired device-side service that functions as the RDK Service Hub (RSH), enabling secure, controlled, platform-aware interaction between cloud services and approved device tools while protecting device resources and maintaining compatibility with the broader RDK architecture.
