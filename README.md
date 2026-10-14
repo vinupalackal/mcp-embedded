@@ -1,6 +1,6 @@
 # RDK Service Hub
 
-RDK Service Hub is a lightweight diagnostic execution service for RDK CPE devices. It integrates with Parodus over nanomsg, receives WRP requests, executes a catalog-defined diagnostic command, and returns command output in a WRP response.
+RDK Service Hub is a lightweight diagnostic/remote procedure execution service for RDK CPE devices. It integrates with Parodus over nanomsg, receives WRP requests, executes a catalog-defined diagnostic command, and returns command output in a WRP response.
 
 This repository currently contains:
 - `rdk-service-hub.c`: Main service implementation.
